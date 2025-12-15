@@ -109,10 +109,28 @@ Beauty & Clothing comparatively low → opportunity areas.
 Filters data by Region, Category, Gender, Product, or Time.
 Updates all visuals dynamically.
 
-📊 Business Impact
+📌  Business Impact
 The project highlights how focused category strategy, regional targeting, customer segmentation, and manager performance can significantly improve business profitability and support strategic planning through clear and actionable insights.
 
-Electronics is the top revenue-generating category and shows consistent growth, Beauty and Clothing are low-performing categories and need improvement, North and West regions contribute the highest sales, South and East regions underperform, indicating expansion opportunities, Female customers generate more revenue (≈58%) than male customers, A small group of top customers contributes a large share of total sales, Business initially struggled with inconsistent sales and weak regional presence, Data-driven insights enable better decisions in marketing, inventory, and strategy.
+1. Strengthen Top-Selling Categories 
+➡ Increase stock, run targeted ads, and push combo offers to maximize profit.
+2. Improve Low-Performing Categories
+Beauty and Clothing have low sales.
+➡ Introduce discounts, bundles, seasonal sales, and improve product variety.
+3. Expand in Weak Regions
+South and East regions show poor sales.
+➡ Focus marketing efforts, improve supply chain, and increase store presence in these areas.
+4. Target High-Value Customer Segment
+Top 10 customers contribute a major chunk of sales.
+5. Manage Sales Volatility Across Months
+Monthly trend shows fluctuations.
+➡ Use forecasting, stock planning, and month-specific promotional campaigns.
+6. Enhance Manager Performance
+Some managers perform significantly better than others.
+➡ Conduct training, set KPIs, and incentivize performance to boost productivity.
+7. Focus More on Female Customers
+Females contribute 58% of total sales.
+➡ Introduce women-centric product lines and targeted marketing campaigns.
 
 Screenshots 
 Sanpshot of the Dashboard 1 (https://github.com/Gagana3103/Customer-Shopping-Trend-Analysis/blob/main/Snapshot%20of%20the%20Dashboard%201.jpeg)
