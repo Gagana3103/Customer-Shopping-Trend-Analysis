@@ -136,6 +136,20 @@ Screenshots
 Sanpshot of the Dashboard 1 (https://github.com/Gagana3103/Customer-Shopping-Trend-Analysis/blob/main/Snapshot%20of%20the%20Dashboard%201.jpeg).
 Snapshot of the Dashboard 2 (https://github.com/Gagana3103/Customer-Shopping-Trend-Analysis/blob/main/Snapshot%20of%20the%20Dashboard%202.jpeg).
 
+📂 File Information
+Customer Shopping Trend Analysis.pbix – Power BI dashboard file
+Dataset is also given. Report is also Attached
+
+🚀 How to Use
+
+Download the .pbix file Open it using Power BI Desktop Interact with filters and visuals to explore insights
+
+📌 Insights Gained
+
+High-revenue product categories and regions Seasonal sales trends Customer segments contributing most to profit
+
+📬 Conclusion
+
 
 
 
