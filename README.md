@@ -112,29 +112,29 @@ Updates all visuals dynamically.
 📌  Business Impact
 The project highlights how focused category strategy, regional targeting, customer segmentation, and manager performance can significantly improve business profitability and support strategic planning through clear and actionable insights.
 
-1. Strengthen Top-Selling Categories 
+1. Strengthen Top-Selling Categories.
 ➡ Increase stock, run targeted ads, and push combo offers to maximize profit.
-2. Improve Low-Performing Categories
+2. Improve Low-Performing Categories.
 Beauty and Clothing have low sales.
 ➡ Introduce discounts, bundles, seasonal sales, and improve product variety.
-3. Expand in Weak Regions
+3. Expand in Weak Regions.
 South and East regions show poor sales.
 ➡ Focus marketing efforts, improve supply chain, and increase store presence in these areas.
-4. Target High-Value Customer Segment
+4. Target High-Value Customer Segment.
 Top 10 customers contribute a major chunk of sales.
-5. Manage Sales Volatility Across Months
+5. Manage Sales Volatility Across Months.
 Monthly trend shows fluctuations.
 ➡ Use forecasting, stock planning, and month-specific promotional campaigns.
-6. Enhance Manager Performance
+6. Enhance Manager Performance.
 Some managers perform significantly better than others.
 ➡ Conduct training, set KPIs, and incentivize performance to boost productivity.
-7. Focus More on Female Customers
+7. Focus More on Female Customers.
 Females contribute 58% of total sales.
 ➡ Introduce women-centric product lines and targeted marketing campaigns.
 
 Screenshots 
-Sanpshot of the Dashboard 1 (https://github.com/Gagana3103/Customer-Shopping-Trend-Analysis/blob/main/Snapshot%20of%20the%20Dashboard%201.jpeg)
-Snapshot of the Dashboard 2 (https://github.com/Gagana3103/Customer-Shopping-Trend-Analysis/blob/main/Snapshot%20of%20the%20Dashboard%202.jpeg)
+Sanpshot of the Dashboard 1 (https://github.com/Gagana3103/Customer-Shopping-Trend-Analysis/blob/main/Snapshot%20of%20the%20Dashboard%201.jpeg).
+Snapshot of the Dashboard 2 (https://github.com/Gagana3103/Customer-Shopping-Trend-Analysis/blob/main/Snapshot%20of%20the%20Dashboard%202.jpeg).
 
 
 
