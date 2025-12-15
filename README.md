@@ -132,10 +132,6 @@ Some managers perform significantly better than others.
 Females contribute 58% of total sales.
 ➡ Introduce women-centric product lines and targeted marketing campaigns.
 
-Screenshots 
-Sanpshot of the Dashboard 1 (https://github.com/Gagana3103/Customer-Shopping-Trend-Analysis/blob/main/Snapshot%20of%20the%20Dashboard%201.jpeg).
-Snapshot of the Dashboard 2 (https://github.com/Gagana3103/Customer-Shopping-Trend-Analysis/blob/main/Snapshot%20of%20the%20Dashboard%202.jpeg).
-
 📂 File Information
 
 Customer Shopping Trend Analysis.pbix – Power BI dashboard file
@@ -153,7 +149,9 @@ High-revenue product categories and regions Seasonal sales trends Customer segme
 
 This Power BI project successfully delivers an end‑to‑end view of customer shopping behavior and sales performance, turning raw transactional data into clear, actionable insights. It combines interactive filters with well‑chosen visuals to analyze sales by time, region, category, customer, gender, and manager impact, supporting both strategic and operational decisions. Through KPIs, trend charts, ranking visuals, and geographic views, the dashboard highlights top customers, high‑performing markets, and growth opportunities while also exposing underperforming areas that need attention.
 
+🔗 TeamWork
 
+Gagana R - Gives Idea of Key metrics and made the Interactive Dashboard to extract the useful Business Insights. Tejasvini Dipak Khairnar- Data Cleaning. Kratika Thakur- Made the Project Report.
 
 
 
