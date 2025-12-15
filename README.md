@@ -116,5 +116,6 @@ The project highlights how focused category strategy, regional targeting, custom
 
 Electronics is the top revenue-generating category and shows consistent growth, Beauty and Clothing are low-performing categories and need improvement, North and West regions contribute the highest sales, South and East regions underperform, indicating expansion opportunities, Female customers generate more revenue (≈58%) than male customers, A small group of top customers contributes a large share of total sales, Business initially struggled with inconsistent sales and weak regional presence, Data-driven insights enable better decisions in marketing, inventory, and strategy.
 
-Screenshots
+Screenshots 
+
 
