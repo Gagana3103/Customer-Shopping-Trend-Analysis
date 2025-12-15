@@ -1,4 +1,4 @@
-# Customer-Shopping-Trend-Analysis
+# Customer-Shopping-Trend-Analysis : Group 2
 A interactive Power BI dashboard delivering insights into sales performance, customer behavior, regional trends, product categories, and yearly growth. Designed with interactive filters and KPIs to support strategic, data-driven retail decision-making.
 
 📊 Customer Shopping Trend Analysis – Power BI Dashboard
