@@ -46,68 +46,66 @@ To provide a single, interactive view of sales performance, customer insights, a
 
 1. KPI Cards (Top Section) 
 
-Total Sales:513K
-Shows the overall revenue generated from all customer transactions.
+   Total Sales:513K
+   Shows the overall revenue generated from all customer transactions.
+   
+   Total Customers: 300
+   Represents the number of unique customers contributing to sales.
+   
+   Average Sales per Customer:  5.13K
+   Indicates customer spending behavior and value.
+   
+   Top-selling Category: Electronics
+   This helps the business understand overall health and highest-impact segments.
 
-Total Customers: 300
-Represents the number of unique customers contributing to sales.
-
-Average Sales per Customer:  5.13K 
-Indicates customer spending behavior and value.
-
-Top-selling Category: Electronics
-
-This helps the business understand overall health and highest-impact segments.
-
-
-2. Product Insights
+3. Product Insights
 Products like Messenger Bags, Leather Shoes, Headphones show highest average sales per customer.
 Categories like Beauty and Clothing generate lower revenue, indicating opportunity for discount or bundling campaigns.
 
-3. Sales by Category (Bar Chart)
+4. Sales by Category (Bar Chart)
 Compares total sales across different product categories.
 Helps identify which categories generate the highest and lowest revenue.
 Useful for product strategy and inventory planning.
 
-4. Sales by Region and Location (Region and Map Visual)
+5. Sales by Region and Location (Region and Map Visual)
 Displays how sales are distributed across regions or cities.
 Highlights high-performing and underperforming markets.
 North & West regions contribute the highest sales (peaking around 60–65K).
 South & East regions lag behind, signaling potential markets for targeted marketing or expansion.
 Helps businesses focus marketing and expansion efforts region-wise.
 
-5. Monthly / Yearly Sales Trend (Line Chart)
+6. Monthly / Yearly Sales Trend (Line Chart)
 Shows sales performance over time.
 Identifies growth patterns, seasonality, or periods of decline.
 Identified sales fluctuations across months.
 Peak months around mid-year; slight decline at year-end.
 Helps in forecasting & inventory planning.
 
-6. Gender-wise Sales Distribution (Pie Chart)
+7. Gender-wise Sales Distribution (Pie Chart)
 Breaks down total sales contribution by gender.
 Helps understand customer demographics and preferences.
 Female customers contribute 58% of total sales.
 Male customers: 42%.
 Business can better allocate products/ads based on gender preference.
 
-7. Manager-wise Sales Performance (Bar Chart)
+8. Manager-wise Sales Performance (Bar Chart)
 Compares sales generated under different managers.
 Highlights top-performing and low-performing managers.
 Managers like Barbara Riggs & Eric Byrd contribute the highest sales.
 Helps in identifying performance gaps, staff training needs.
 
-8. Top Customers (Bar Chart)
+9. Top Customers (Bar Chart)
 Lists customers contributing the highest sales.
 Identifies high-value customers.
 Top 10 customers generate significantly higher sales → dependency on high-value customers.
 Ideal for designing VIP customer loyalty programs.
 
-9. Year & Category Trends
+10. Year & Category Trends
 Eectronics show consistent year-on-year growth.
 Home Appliances & Books moderate growth.
 Beauty & Clothing comparatively low → opportunity areas.
 
-10. Interactive Slicers
+11. Interactive Slicers
 Filters data by Region, Category, Gender, Product, or Time.
 Updates all visuals dynamically.
 
